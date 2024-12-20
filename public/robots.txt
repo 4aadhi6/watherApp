@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+https://api.openweathermap.org/data/2.5/weather?q=London,uk&APPID=3df6767b8eb4d3efc840514967f01f67
